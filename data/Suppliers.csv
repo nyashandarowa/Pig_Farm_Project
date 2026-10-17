@@ -1,0 +1,13 @@
+Supplier_ID,Supplier_Name,Supplier_Type,Location
+"S001","AgriMix Feeds","Feed Supplier","Harare"
+"S002","Rural Grain Cooperative","Feed Supplier","Norton"
+"S003","Valley Animal Health","Veterinary Supplier","Harare"
+"S004"," Midlands  VET supplies ","Veterinary Supplier","Gweru"
+"S005","Maputi Haulage","Transport Provider","Harare"
+"S006","Eastern Route Logistics","Transport Provider","Mutare"
+"S007","Barn & Mill Hardware","Equipment Supplier","Harare"
+"S008","Zim Grid Services","Utility Provider","Harare"
+"S009","Municipal Water Supply","Utility Provider","Norton"
+"S010","Marshland Equipment","Equipment Supplier","Chinhoyi"
+"S011","Agri Mix Feeds","Feed Supplier","Harare"
+"S012","Horizon Farm Services","Equipment Supplier","Norton"
